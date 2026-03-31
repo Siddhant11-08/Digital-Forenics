@@ -1,7 +1,11 @@
 Student Details
+
 Name: Siddhant Aggarwal
+
 Registration Number: 25BCY10082
+
 Branch: B.Tech(Cyber Security and Digital Forensics)
+
 Year: 1st Year
 📌 Project Overview
 
