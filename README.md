@@ -28,6 +28,7 @@ digital-literacy-project/
 ├── task-4-email-etiquette/
 └── task-5-cybercrime/
 📊 Task Summary
+
 🔹 Task 1: Digital Literacy Awareness Infographic
 Created an infographic using Canva
 Covers:
@@ -35,6 +36,7 @@ Digital literacy basics
 Safe internet practices
 Professional online presence
 📁 Stored in: task-1-presentation/
+
 🔹 Task 2: Student Digital Portfolio
 Created/updated profiles on:
 GitHub
@@ -42,6 +44,7 @@ LinkedIn
 [Add others if any]
 Added profile screenshots
 📁 Stored in: task-2-portfolio/
+
 🔹 Task 3: Coding & Collaboration Platforms
 ✔ Coding Practice
 Platform used: HackerRank
@@ -52,6 +55,7 @@ Created a Digital Literacy Quiz (5 questions)
 👉 Form Link: https://docs.google.com/forms/d/e/1FAIpQLSce1PXwdM5oLuwlgnGdR2zsIyRZ-3_f3Q9j8Cbm2230ha9GxA/viewform?usp=publish-editor
 
 📁 Stored in: task-3-platforms/
+
 🔹 Task 4: Email Etiquette
 Wrote:
 Email to professor (assignment extension)
@@ -59,6 +63,7 @@ Email for internship application
 Created:
 Social Media Do’s & Don’ts checklist
 📁 Stored in: task-4-email-etiquette/
+
 🔹 Task 5: Cybercrime Awareness
 ✔ Case Study
 Topic: [e.g., UPI Fraud / Phishing]
@@ -70,6 +75,7 @@ Includes reporting channels:
 National Cyber Crime Portal
 Helpline: 1930
 📁 Stored in: task-5-cybercrime/
+
 📄 Project Report
 
 The detailed report covering all tasks is available here:
@@ -82,12 +88,14 @@ Building a professional online identity
 Safe communication and email etiquette
 Awareness of cyber threats and prevention methods
 Use of collaborative tools like Google Forms
+
 🔗 Useful Links
 GitHub: https://github.com
 LinkedIn: https://linkedin.com
 HackerRank: https://hackerrank.com
 Google Forms: https://forms.google.com
 Cyber Crime Portal: https://cybercrime.gov.in
+
 ✅ Conclusion
 
 This project helped in understanding the practical aspects of digital literacy and developing essential skills required for academic and professional growth in the digital world.
